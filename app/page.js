@@ -6,9 +6,11 @@ export default function Home() {
     <div className={styles.container}>
         <h1>Next.js with p5.js</h1>
         <ul>
-            <li><Link href="/sketch1">Sketch 1</Link></li>
-            <li><Link href="/sketch2">Sketch 2</Link></li>
-            <li><Link href="/sketch3">Sketch 3</Link></li>
+            <li><Link href="/conditionals-and-interactivity">conditionals-and-interactivity</Link></li>
+            <li><Link href="/curve-with-lines">curve-with-lines</Link></li>
+            <li><Link href="/getting-started">getting-started</Link></li>
+            <li><Link href="/organizing-code-with-functions">organizing-code-with-functions</Link></li>
+            <li><Link href="/variables-and-change">variables-and-change</Link></li>
         </ul>
     </div>
   );
